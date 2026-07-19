@@ -1,34 +1,98 @@
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayushrajput1012&label=Profile%20Views&color=0e75b6&style=flat" />
-</div>
+<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 
-<div>
-  <h1 align="center">Hi 👋, I'm Ayush Rajput</h1>
-  <h3 align="center">  Software Developer</h3>
-</div>
+<h3 align="center">
+Full Stack Developer | Java | React | Node.js
+</h3>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ayushrajput1012&label=Profile%20Views&color=0e75b6&style=flat" />
 
-<h3 align="left">👩‍💻  About Me</h3>
+<a href="www.linkedin.com/in/ayushrajput2060">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
+</a>
 
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel"/>
+</a>
+</p>
 
-###
+---
 
-- 🌱 I’m currently learning **Data Science , Web3**
+# About Me
 
-- 💬 Ask me about **Cybersecurity , Android , Python**
+Hi, I'm **Ayush Rajput**, a passionate Full Stack Developer who enjoys building scalable web applications and solving real-world problems.
 
+- 🎓 Computer Science Student
+- 💻 Full Stack Developer
+- 🌱 Currently learning AI & Cloud
+- 🚀 Building AI Powered Applications
+- 📫 ayushrajpoot9670@gmail.com
 
+> *"First, solve the problem. Then, write the code."*
 
-<h3 align="left">🔥   My Stats :</h3>
+---
 
-###
+# Tech Stack
 
-###
+<p align="left">
 
+<img src="https://skillicons.dev/icons?i=java"/>
 
+<img src="https://skillicons.dev/icons?i=javascript"/>
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajput1012&theme=dracula" alt="sandeepvashishtha" /></p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushrajput1012&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushrajput1012&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://skillicons.dev/icons?i=react"/>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=postman"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
+
+---
+
+# My Stats
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayushrajput1012&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="49%" height="180" src="https://github-readme-stats-five-gray-zotwnffj3s.vercel.app/api?username=ayushrajput1012&show_icons=true&theme=dracula&hide_border=true"/>
+
+<img width="49%" height="180" src="https://github-readme-stats-five-gray-zotwnffj3s.vercel.app/api/top-langs?username=ayushrajput1012&layout=compact&theme=dracula&hide_border=true"/>
+
+</p>
+
+---
+
+# Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 HireForge AI | AI-powered mock interview platform with resume analysis |
+| 🎵 Music Upload Platform | Authentication, file upload and role-based access |
+| 💼 Portfolio Website | Personal responsive portfolio built with React |
+| 📚 DSA Solutions | Java solutions for LeetCode and coding problems |
+
+---
+
+⭐ Thanks for visiting my profile!
+
+</p>
