@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ayushrajput1012/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=ayushrajput1012&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
 
 <div>
