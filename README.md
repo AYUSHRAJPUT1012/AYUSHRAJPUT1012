@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Singh</h1>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1b593f72-a597-40d3-83d9-46a02585bf4a" /><h1 align="center">Hi 👋, I'm Ayush Singh</h1>
 
 <h3 align="center">
 Full Stack Developer | Java | React | Node.js
@@ -11,7 +11,7 @@ Full Stack Developer | Java | React | Node.js
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
 </a>
 
-<a href="[YOUR_PORTFOLIO_URL](https://ayush-portfolio-pink-three.vercel.app/)">
+<a href="https://ayush-portfolio-pink-three.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel"/>
 </a>
 </p>
