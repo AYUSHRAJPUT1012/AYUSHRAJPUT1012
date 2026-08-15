@@ -11,7 +11,7 @@ Full Stack Developer | Java | React | Node.js
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="[YOUR_PORTFOLIO_URL](https://ayush-portfolio-pink-three.vercel.app/)">
 <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel"/>
 </a>
 </p>
